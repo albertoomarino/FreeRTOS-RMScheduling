@@ -1,4 +1,4 @@
-# Computer architectures and operating systems
+# Computer Architectures and Operating Systems
 
 ## Table of Contents
 
